@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7cde7276-93e9-4fd9-9d45-011d281009e2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/arpitnodehw8",
+    "appService.deploySubpath": ""
+}
